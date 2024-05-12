@@ -1,0 +1,160 @@
+body{
+    /* background-image: url(bgimg.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(lightpink,hotpink)
+}
+
+.h1{
+    text-align: center;
+    text-decoration: solid;
+    color: white;
+}
+
+.a1{
+    background-color: white;
+    position: relative;
+    height:100px ; 
+    width: 200px; 
+    top:60px ; 
+    left: 200px;
+    text-align: center;
+    border-radius: 30px; 
+}
+
+.a2{
+    background-color: white;
+    position: relative;
+    height:100px ;
+    width:200px ;
+    top:60px ;
+    left: 250px;
+    text-align:center ;
+    border-radius: 30px;
+}
+
+.a3{
+    background-color: white;
+    position: relative;
+    height: 100px;
+    width:200px ;
+    top:60px ;
+    left: 200px;
+    text-align:center ;
+    border-radius: 30px;
+}
+
+.a4{
+    background-color: white;
+    position: relative;
+    height: 100px ;
+    width:200px ;
+    top:60px ;
+    left: 200px;
+    text-align:center ;
+    border-radius: 30px;
+}
+
+.p1{
+    text-align:right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:100px ;
+    margin-right: ;
+}
+
+.m1{
+    background-color: white;
+    position: relative;
+    height: ; 
+    width: ;
+}
+
+.m2{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.m3{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.m4{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.m5{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.m6{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.m7{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.m8{
+    background-color: white;
+    position: relative;
+    height: ;
+    width: ;
+    top: ;
+    text-align: ;
+    border-radius: ;
+}
+
+.smedia1{
+    position: ;
+    height: ;
+    width
+}
+
+.smedia2{
+    position: ;
+    height: ;
+    width
+}
+
+.smedia3{
+    position: ;
+    height: ;
+    width
+}
