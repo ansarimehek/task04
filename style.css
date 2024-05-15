@@ -167,11 +167,17 @@ body {
 
 
 
-.snap11 {
+
+
+
+.ssmedia1 {
+margin-top: 1px;
+}
+
+#snap1{
     position: fixed;
     right: 20px;
-    bottom: 130px;
-    border-radius: 15px;
+    bottom: 210px;
 }
 
 .smedia2 {
